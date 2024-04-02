@@ -14,7 +14,7 @@ This is a classic memory card game where the player needs to match pairs of card
 
 ## Screenshots
 
-![Game Screenshot](path/to/your/screenshot.png)
+![Game Screenshot](https://github.com/dark-cipher-26jan/Memory-Card-Game/blob/main/dark-cipher.png)
 
 ## Getting Started
 
